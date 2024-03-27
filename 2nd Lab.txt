@@ -4,4 +4,4 @@
 4. git branch -M Branch Name
 5. git remote add origin URL
 6. git push -u origin BRANCH name
-7. git pull
+7. git pullk
